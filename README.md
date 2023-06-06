@@ -37,7 +37,7 @@ The environment is also recorded in *requirements.txt*.
 
 ## Pretrained models
 
-We use the base model (ViT-B/16 for image encoder & text encoder) pre-trained by [ActionCLIP](https://github.com/sallymmx/ActionCLIP) based on Kinetics-400. The model can be downloaded in [link](https://drive.google.com/drive/folders/1WhU_9hPcnTd3EwaMQxS1M0TUMmXqUTbj?usp=sharing). The pre-trained model should be saved in ./models/.
+We use the base model (ViT-B/16 for image encoder & text encoder) pre-trained by [CLIP-openai](https://github.com/openai/CLIP). The model can be downloaded in [link](https://openaipublic.azureedge.net/clip/models/5806e77cd80f8b59890b7e101eabd078d9fb84e6937f9e85e4ecb61988df416f/ViT-B-16.pt). The pre-trained model should be saved in ./models/.
 
 ## Model weights
 
